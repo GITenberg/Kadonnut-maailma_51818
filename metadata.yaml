@@ -1,11 +1,14 @@
 _repo: Kadonnut-maailma_51818
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The lost world. Finnish
 contributor:
   translator:
     agent_name: Hela, Martti
     gutenberg_agent_id: '46519'
     url: http://www.gutenberg.org/2009/agents/46519
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51818#Kadonnut-maailma
 gutenberg_issued: '2016-04-21'
 gutenberg_type: Text
 identifiers:
